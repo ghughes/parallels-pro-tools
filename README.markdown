@@ -9,11 +9,12 @@ Lists mailboxes, aliases and current MX servers (according to DNS) for each doma
 ### site_audit.py
 
 Generates a CSV file listing every site hosted on the server, along with some stats:
-* whether the site is enabled
-* how much bandwidth the site has used this cycle
-* maximum bandwidth allowed
-* whether Webalizer or AWStats are turned on
-* number of email accounts and MySQL databases
+
+* Whether the site is enabled
+* How much bandwidth the site has used this cycle
+* Maximum bandwidth allowed
+* Whether Webalizer or AWStats are turned on
+* Number of email accounts and MySQL databases
 
 ## License
 
